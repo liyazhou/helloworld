@@ -10,6 +10,7 @@ import junit.framework.TestSuite;
 public class AppTest
         extends TestCase {
     /**
+     * tag test3
      * tag test 2
      * tag commit
      * master 2
